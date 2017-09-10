@@ -1,10 +1,11 @@
+
+---
+
+**IMPORTANT: Fresh fetch renamed to [Refresh fetch](https://github.com/vlki/refresh-fetch), head over there for latest version**
+
+---
+
 # Fresh Fetch
-
----
-
-**Fresh fetch renamed to [Refresh fetch](https://github.com/vlki/refresh-fetch), head over there for latest version**
-
----
 
 Wrapper around [fetch](https://developer.mozilla.org/en-US/docs/Web/API/GlobalFetch) capable of graceful authentication token refreshing.
 
