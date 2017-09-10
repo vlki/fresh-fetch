@@ -18,8 +18,6 @@ The following ES6 functions are required:
 
 ## Install
 
-[![build status](https://img.shields.io/travis/vlki/fresh-fetch/master.svg?style=flat-square)](https://travis-ci.org/vlki/fresh-fetch) [![npm version](https://img.shields.io/npm/v/fresh-fetch.svg?style=flat-square)](https://www.npmjs.com/package/fresh-fetch)
-
 Add to your app using package manager:
 
 ```
